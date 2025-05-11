@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.techwithramaa</groupId>
+    <artifactId>java-concurrency-toolkit</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>pattern-01-countdownlatch</module>
+        <module>pattern-02-semaphore</module>
+        <module>pattern-03-waitAndNotify</module>
+        <module>pattern04-atomicInteger</module>
+        <module>pattern-02-semaphore/pattern-04-sharedStateAndMutualExclusion</module>
+        <module>pattern-05-sharedState-WaitNotify</module>
+        <module>pattern-06-sharedState-AtomicInteger</module>
+        <module>pattern07-alternatingOrderWaitAndNotify</module>
+        <module>pattern08-alternatingOrder-Semaphores</module>
+        <module>pattern09-alternatingOrderAtomicInteger</module>
+        <module>patern10-semaphoreAndCyclicBarriers</module>
+        <module>pattern-12-deadlock-avoidance-ordering</module>
+        <module>pattern-10-deadlock</module>
+        <module>pattern-13-producerConsumerWaitAndNotify</module>
+        <module>pattern-13-producerConsumerWaitAndNotify/pattern-14-producerConsumerReentrantLock</module>
+        <module>pattern-15-threadSafeDesign</module>
+        <module>pattern-15-threadSafeDesign/pattern14-producerConsumerWithReentrantLock</module>
+        <module>pattern15-producerConsumerGroupBlockingQueue</module>
+        <module>pattern16-readerWriterReaderStarvation</module>
+        <module>pattern17-readerWriterAndWriterStarvation</module>
+        <module>pattern18-readerWriterFairness</module>
+        <module>pattern19-fixedWindowRateLimiter</module>
+        <module>pattern20-fixedRateLimiterWithAtomicInteger</module>
+        <module>pattern20-FixedRateLimiterUsingLocks</module>
+        <module>pattern21-philospherDeadlock</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

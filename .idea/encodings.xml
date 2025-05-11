@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/patern10-semaphoreAndCyclicBarriers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/patern10-semaphoreAndCyclicBarriers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-01-countdownlatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-01-countdownlatch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-02-semaphore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-02-semaphore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-03-waitAndNotify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-03-waitAndNotify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-04-sharedStateAndMutualExclusion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-04-sharedStateAndMutualExclusion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-05-sharedState-WaitNotify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-05-sharedState-WaitNotify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-06-sharedState-AtomicInteger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-06-sharedState-AtomicInteger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-10-deadlock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-10-deadlock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-12-deadlock-avoidance-ordering/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-12-deadlock-avoidance-ordering/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-13-producerConsumerWaitAndNotify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-13-producerConsumerWaitAndNotify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-14-producerConsumerReentrantLock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-14-producerConsumerReentrantLock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-15-threadSafeDesign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-15-threadSafeDesign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern04-atomicInteger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern04-atomicInteger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern07-alternatingOrderWaitAndNotify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern07-alternatingOrderWaitAndNotify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern08-alternatingOrder-Semaphores/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern08-alternatingOrder-Semaphores/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern09-alternatingOrderAtomicInteger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern09-alternatingOrderAtomicInteger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern11-deadlock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern11-deadlock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern14-producerConsumerWithReentrantLock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern14-producerConsumerWithReentrantLock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern15-producerConsumerGroupBlockingQueue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern15-producerConsumerGroupBlockingQueue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern16-readerWriterReaderStarvation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern16-readerWriterReaderStarvation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern17-readerWriterAndWriterStarvation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern17-readerWriterAndWriterStarvation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern18-readerWriterFairness/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern18-readerWriterFairness/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern19-fixedWindowRateLimiter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern19-fixedWindowRateLimiter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern20-FixedRateLimiterUsingLocks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern20-FixedRateLimiterUsingLocks/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern20-fixedRateLimiterWithAtomicInteger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern20-fixedRateLimiterWithAtomicInteger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern21-philospherDeadlock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern21-philospherDeadlock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
